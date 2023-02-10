@@ -1,0 +1,72 @@
+C:\Users\27976\Desktop\works\C#_works\Draw\Draw\Draw\bin\Debug\Draw.exe.config
+C:\Users\27976\Desktop\works\C#_works\Draw\Draw\Draw\bin\Debug\Draw.exe
+C:\Users\27976\Desktop\works\C#_works\Draw\Draw\Draw\bin\Debug\Draw.pdb
+C:\Users\27976\Desktop\works\C#_works\Draw\Draw\Draw\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\27976\Desktop\works\C#_works\Draw\Draw\Draw\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+C:\Users\27976\Desktop\works\C#_works\Draw\Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Users\27976\Desktop\works\C#_works\Draw\Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\27976\Desktop\works\C#_works\Draw\Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\27976\Desktop\works\C#_works\Draw\Draw\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\27976\Desktop\works\C#_works\Draw\Draw\Draw\obj\Debug\Draw.exe
+C:\Users\27976\Desktop\works\C#_works\Draw\Draw\Draw\obj\Debug\Draw.pdb
+C:\Users\27976\Desktop\works\C#_works\Draw\Draw\Draw\obj\Debug\Draw.Form2.resources
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本\Draw\Draw\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本\Draw\Draw\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本\Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本\Draw\Draw\obj\Debug\Draw.Form2.resources
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本\Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本\Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本\Draw\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本\Draw\Draw\obj\Debug\Draw.exe
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本\Draw\Draw\obj\Debug\Draw.pdb
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本\Draw\Draw\bin\Debug\Draw.exe.config
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本\Draw\Draw\bin\Debug\Draw.exe
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本\Draw\Draw\bin\Debug\Draw.pdb
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本\Draw\Draw\bin\Debug\Draw.exe.config
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本\Draw\Draw\bin\Debug\Draw.exe
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本\Draw\Draw\bin\Debug\Draw.pdb
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本\Draw\Draw\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本\Draw\Draw\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本\Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本\Draw\Draw\obj\Debug\Draw.Form2.resources
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本\Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本\Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本\Draw\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本\Draw\Draw\obj\Debug\Draw.exe
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本\Draw\Draw\obj\Debug\Draw.pdb
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本 - 副本\Draw\Draw\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本 - 副本\Draw\Draw\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本 - 副本\Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本 - 副本\Draw\Draw\obj\Debug\Draw.Form2.resources
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本 - 副本\Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本 - 副本\Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本 - 副本\Draw\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本 - 副本\Draw\Draw\obj\Debug\Draw.exe
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本 - 副本\Draw\Draw\obj\Debug\Draw.pdb
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本 - 副本\Draw\Draw\bin\Debug\Draw.exe.config
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本 - 副本\Draw\Draw\bin\Debug\Draw.exe
+C:\Users\27976\Desktop\works\C#_works\Draw - 副本 - 副本 - 副本\Draw\Draw\bin\Debug\Draw.pdb
+C:\Users\27976\Desktop\works\C#_works\Draw - 最终\Draw\Draw\bin\Debug\Draw.exe.config
+C:\Users\27976\Desktop\works\C#_works\Draw - 最终\Draw\Draw\bin\Debug\Draw.exe
+C:\Users\27976\Desktop\works\C#_works\Draw - 最终\Draw\Draw\bin\Debug\Draw.pdb
+C:\Users\27976\Desktop\works\C#_works\Draw - 最终\Draw\Draw\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 最终\Draw\Draw\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 最终\Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Users\27976\Desktop\works\C#_works\Draw - 最终\Draw\Draw\obj\Debug\Draw.Form2.resources
+C:\Users\27976\Desktop\works\C#_works\Draw - 最终\Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\27976\Desktop\works\C#_works\Draw - 最终\Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 最终\Draw\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\27976\Desktop\works\C#_works\Draw - 最终\Draw\Draw\obj\Debug\Draw.exe
+C:\Users\27976\Desktop\works\C#_works\Draw - 最终\Draw\Draw\obj\Debug\Draw.pdb
+C:\Users\27976\Desktop\works\Csharp_works\Draw\Draw\Draw\bin\Debug\Draw.exe.config
+C:\Users\27976\Desktop\works\Csharp_works\Draw\Draw\Draw\bin\Debug\Draw.exe
+C:\Users\27976\Desktop\works\Csharp_works\Draw\Draw\Draw\bin\Debug\Draw.pdb
+C:\Users\27976\Desktop\works\Csharp_works\Draw\Draw\Draw\obj\Debug\Draw.csproj.AssemblyReference.cache
+C:\Users\27976\Desktop\works\Csharp_works\Draw\Draw\Draw\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+C:\Users\27976\Desktop\works\Csharp_works\Draw\Draw\Draw\obj\Debug\Draw.Form1.resources
+C:\Users\27976\Desktop\works\Csharp_works\Draw\Draw\Draw\obj\Debug\Draw.Form2.resources
+C:\Users\27976\Desktop\works\Csharp_works\Draw\Draw\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\27976\Desktop\works\Csharp_works\Draw\Draw\Draw\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\27976\Desktop\works\Csharp_works\Draw\Draw\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\27976\Desktop\works\Csharp_works\Draw\Draw\Draw\obj\Debug\Draw.exe
+C:\Users\27976\Desktop\works\Csharp_works\Draw\Draw\Draw\obj\Debug\Draw.pdb
